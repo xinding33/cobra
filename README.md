@@ -1,4 +1,5 @@
 ![cobra logo](https://cloud.githubusercontent.com/assets/173412/10886352/ad566232-814f-11e5-9cd0-aa101788c117.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Fcobra.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Fcobra?ref=badge_shield)
 
 Cobra is both a library for creating powerful modern CLI applications as well as a program to generate applications and command files.
 
@@ -253,6 +254,9 @@ func initConfig() {
   }
 }
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Fcobra.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Fcobra?ref=badge_large)
 
 ### Create your main.go
 
